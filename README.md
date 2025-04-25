@@ -1,4 +1,4 @@
-Perfect! Here's your full `README.md`—ready to copy and paste:
+
 
 ```markdown
 # Career Recommendation System 🎯
@@ -63,13 +63,3 @@ Follow the on-screen prompts to get your career suggestions.
 
 Pull requests are welcome. For major changes, please open an issue first.
 
-## 📄 License
-
-MIT License
-
----
-
-*Made with ❤️ to help you find your dream career!*
-```
-
-Want me to give you a `.gitignore` for Python projects too?
